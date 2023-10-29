@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "563182574239",
+    "project_id": "alum-connect-70dd8",
+    "storage_bucket": "alum-connect-70dd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563182574239:android:3f296e20ee4d79fa2be0aa",
+        "android_client_info": {
+          "package_name": "com.example.insta_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563182574239-gr31qj5mdfgevjr2m3aqvcfkh2reoltt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX2vBcwcPRCV16hMuQwUC7fcuqSGikKmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563182574239-gr31qj5mdfgevjr2m3aqvcfkh2reoltt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563182574239-b6u0p8hkl4l1sfvaaohd4paemondo9ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instaFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
