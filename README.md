@@ -29,7 +29,7 @@ Sign Out with Ease: With just a click, securely sign out from your account, ensu
 Conclusion:
 Alum Connect is not just another social media app; it's a platform that brings back the nostalgia of your campus days. While it draws inspiration from Instagram, it is tailored and fine-tuned to cater to the unique bond that only alumni understand. Join Alum Connect and embark on a journey down memory lane!
 
-Hosting Link :  https://alum-connect-70dd8.web.app/
+Hosting Link :  [https://alum-connect-70dd8.web.app/](https://653eddc4de07b04f0cbdf2e2--splendid-lokum-174b95.netlify.app/)https://653eddc4de07b04f0cbdf2e2--splendid-lokum-174b95.netlify.app/
 
 
 
